@@ -6,9 +6,13 @@ export interface CustomIcon {
    */
   name: string;
   /**
+   * 图标地址
+   */
+  img: string;
+  /**
    * 图标链接
    */
-  url: string;
+  url?: string;
   /**
    * 类型
    */
@@ -23,7 +27,7 @@ export function generateIconList(icons: (string | CustomIcon)[]) {
     .map((icon) => {
       let imgElement = `<img height="20" title="${icon}" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/${icon}/${icon}.png" alt="${icon}" />`;
       if (typeof icon !== "string") {
-        imgElement = `<img height="20" title= "${icon.name}" src="${icon.url}" alt="${icon.name}" />`;
+        imgElement = `<a href="${icon.url}"><img height="20" title= "${icon.name}" src="${icon.img}" alt="${icon.name}" /></a>`;
       }
       return `<code>${imgElement}</code>`;
     })
