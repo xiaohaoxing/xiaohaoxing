@@ -3,6 +3,7 @@
 I am a PhD student in [Wuhan University](https://en.whu.edu.cn/), China. My major is software engineering and my research direction is data management. Before that, I worked at [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a back-end software development engineer.
 
 I have a strong interest in programming and am good at solving real-world problems from an engineering perspective.
+
 ---
 
 #### Languages
