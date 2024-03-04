@@ -21,9 +21,9 @@ export interface CustomIcon {
 export function generateIconList(icons: (string | CustomIcon)[]) {
   return icons
     .map((icon) => {
-      let imgElement = `<img height="20" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/${icon}/${icon}.png" alt="${icon}" />`;
+      let imgElement = `<img height="20" title="${icon}" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/${icon}/${icon}.png" alt="${icon}" />`;
       if (typeof icon !== "string") {
-        imgElement = `<img height="20" src="${icon.url}" alt="${icon.name}" />`;
+        imgElement = `<img height="20" title= "${icon.name}" src="${icon.url}" alt="${icon.name}" />`;
       }
       return `<code>${imgElement}</code>`;
     })
