@@ -1,8 +1,8 @@
 ### Hi there, I'm [Xiao Haoxing](https://xiaohaoxing.github.io)（肖皓星）. 👋
 
-I am a PhD student at [Wuhan University](https://en.whu.edu.cn/), China, and my major is software engineering and my research direction is data management. Before that, I worked at [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a back-end software development engineer.
+I'm a backend developer at [Shanghai Ruoyou Network Technology Co., Ltd.](https://ruguoapp.com/). Before that, I worked at [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a backend software development engineer. And I used to be a [PhD student](http://bdi.whu.edu.cn/teacherinfo.aspx?id=472) at Wuhan University for one and a half year!
 
-I have a strong interest in programming and am good at solving real-world problems from an engineering perspective.
+I have a strong interest in programming and I am good at solving real-world problems from an engineering perspective. I'm making a tool for influencer discovery on the social media and some interesting projects!
 
 ---
 
