@@ -13,7 +13,9 @@ I have a strong interest in programming and I am good at solving real-world prob
 <!-- markdownlint-disable -->
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=xiaohaoxing&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&count_private=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
