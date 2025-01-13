@@ -23,6 +23,7 @@ I have a strong interest in programming and I am good at solving real-world prob
 <code><img height="20" title="go" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/go/go.png" alt="go" /></code>
 <code><img height="20" title="python" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/python/python.png" alt="python" /></code>
 <code><img height="20" title="javascript" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/javascript/javascript.png" alt="javascript" /></code>
+<code><img height="20" title="typescript" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/typescript/typescript.png" alt="typescript" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
@@ -32,6 +33,9 @@ I have a strong interest in programming and I am good at solving real-world prob
 <!-- tools:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
+<code><img height="20" title="nodejs" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/nodejs/nodejs" alt="nodejs" /></code>
+<code><img height="20" title="fastify" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/fastify/fastify" alt="fastify" /></code>
 <code><img height="20" title="spring" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" alt="spring" /></code>
 <code><img height="20" title="spring-boot" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring-boot/spring-boot.png" alt="spring-boot" /></code>
 <code><a href="undefined"><img height="20" title= "Spark" src="https://simpleicons.org/icons/apachespark.svg" alt="Spark" /></a></code>
