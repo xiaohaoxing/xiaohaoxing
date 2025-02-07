@@ -58,8 +58,12 @@ I have a strong interest in programming and I am good at solving real-world prob
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><a href="https://www.mi.com/en"><img height="20" title= "XiaoMi" src="https://cdn.cnbj1.fds.api.mi-img.com/info-app-webfile/%20hr-official-website-web/pc-nav/logo.svg" alt="XiaoMi" /></a></code>
+
 <code><a href="https://www.bytedance.com/en/"><img height="20" title= "ByteDance" src="https://simpleicons.org/icons/bytedance.svg" alt="ByteDance" /></a></code>
+
 <code><a href="https://en.whu.edu.cn/"><img height="20" title= "Wuhan University" src="https://www.whu.edu.cn/__local/5/2F/C2/57EDDD9FB0DF712F3AB627163C2_1EF15655_13FCA.png" alt="Wuhan University" /></a></code>
+
+<code><a href="https://ruguoapp.com/"><img height="20" title= "If Tech" src="https://avatars.githubusercontent.com/u/13011263?s=200&v=4" alt="Ruguo Company" /></a></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- experience:end -->
