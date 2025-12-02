@@ -11,17 +11,20 @@ I have a strong interest in programming and I am good at solving real-world prob
 🚀 I'm excited to announce that my new project, EasyKOL, has launched on Product Hunt! It's the fastest way to find and outreach creators. I would love for you to check it out and show your support!
 <a align='right' href="https://www.producthunt.com/products/easykol?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-easykol" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=999909&theme=light&t=1754291701223" alt="EasyKOL - The&#0032;fastest&#0032;way&#0032;to&#0032;find&#0032;and&#0032;outreach&#0032;creators | Product Hunt" style="width: 150px; height: 54px;" width="150" height="54" /></a>
 
-<style>
-  code{
-    background-color: black;
-  }
-</style>
-#### Personal products
+
+#### Personal Products
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<a href="https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en"><img height="20" title= "Cursor Usage Cost Overlay" src="https://lh3.googleusercontent.com/YRumgHRkr1t3nY2AhlrRuKxjcS-ZdpijlgFYT2f40g4qMEQQWb5p3sQBHA0tSGdVKIDv0ees2uEhjOgxMUWIi4RXIA=s120" alt="Cursor Usage Cost Overlay" /></a>
-<a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en"><img height="20" title= "Open in Cursor" src="https://lh3.googleusercontent.com/hclkeIBEVp_l5svDzh4Ixiyt0FtJXPV6fPYW169g3a8sDKhvSdARhCXI5E-32sMwitM6c-sj-kQtlHvbFbynMkJ5tI0=s120" alt="Open in Cursor" /></a>
-<a href="https://wediscuss.online/"><img height="20" title= "We Discuss-Multi-AI Chat" src="https://p.ipic.vip/vfywx0.png" alt="We Discuss-Multi-AI Chat" /></a>
+<a href="https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en"><img height="30" title= "Cursor Usage Cost Overlay" src="https://lh3.googleusercontent.com/YRumgHRkr1t3nY2AhlrRuKxjcS-ZdpijlgFYT2f40g4qMEQQWb5p3sQBHA0tSGdVKIDv0ees2uEhjOgxMUWIi4RXIA=s120" alt="Cursor Usage Cost Overlay" /></a> 
+**Cursor Usage Cost Overlay**: Direct see how much money has been used in cursor. [Chrome Extension](https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en) | [Code](https://github.com/xiaohaoxing/cursor-value-calculator)
+<br />
+
+<a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en"><img height="30" title= "Open in Cursor" src="https://lh3.googleusercontent.com/hclkeIBEVp_l5svDzh4Ixiyt0FtJXPV6fPYW169g3a8sDKhvSdARhCXI5E-32sMwitM6c-sj-kQtlHvbFbynMkJ5tI0=s120" alt="Open in Cursor" /></a>
+**Open in Cursor**: Direct install VSCode Extensions for cursor and other AI IDEs. [Chrome Extension](https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en) | [Code](https://github.com/xiaohaoxing/open-in-cursor)
+
+<a href="https://wediscuss.online/"><img height="30" title= "We Discuss-Multi-AI Chat" src="https://p.ipic.vip/vfywx0.png" alt="We Discuss-Multi-AI Chat" /></a>
+**We Discuss**: Have you ever chat with AIs in a group? [Web Application](https://wediscuss.online/)
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
