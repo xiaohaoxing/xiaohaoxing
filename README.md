@@ -1,14 +1,29 @@
 ### Hi there, I'm [Xiao Haoxing](https://xiaohaoxing.github.io)（肖皓星）. 👋
 
-🚀 I'm excited to announce that my new project, EasyKOL, has launched on Product Hunt! It's the fastest way to find and outreach creators. I would love for you to check it out and show your support!
-<a align='right' href="https://www.producthunt.com/products/easykol?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-easykol" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=999909&theme=light&t=1754291701223" alt="EasyKOL - The&#0032;fastest&#0032;way&#0032;to&#0032;find&#0032;and&#0032;outreach&#0032;creators | Product Hunt" style="width: 150px; height: 54px;" width="150" height="54" /></a>
-<hr />
+🌟 Currently I'm **looking for new oppotunities**. If you're interested, please feel free to send me a connect email at [xiaohaoxing@outlook.com](mailto://xiaohaoxing@outlook.com).
 
-I'm a backend developer at [Shanghai Ruoyou Network Technology Co., Ltd.](https://ruguoapp.com/). Before that, I worked at [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a backend software development engineer. And I used to be a [PhD student](http://bdi.whu.edu.cn/teacherinfo.aspx?id=472) at Wuhan University for one and a half year!
+I'm now a self-employed full-stack developer. Before that, I worked at [Shanghai Ruoyou Network Technology Co., Ltd.](https://ruguoapp.com/), [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a backend software development engineer. What's more, I used to be a [PhD student](http://bdi.whu.edu.cn/teacherinfo.aspx?id=472) at Wuhan University for one and a half year!
 
 I have a strong interest in programming and I am good at solving real-world problems from an engineering perspective. I'm making a tool for influencer discovery on the social media and some interesting projects!
 
 ---
+
+🚀 I'm excited to announce that my new project, EasyKOL, has launched on Product Hunt! It's the fastest way to find and outreach creators. I would love for you to check it out and show your support!
+<a align='right' href="https://www.producthunt.com/products/easykol?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-easykol" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=999909&theme=light&t=1754291701223" alt="EasyKOL - The&#0032;fastest&#0032;way&#0032;to&#0032;find&#0032;and&#0032;outreach&#0032;creators | Product Hunt" style="width: 150px; height: 54px;" width="150" height="54" /></a>
+
+<style>
+  code{
+    background-color: black;
+  }
+</style>
+#### Personal products
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<code><a href="https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en"><img height="20" title= "Cursor Usage Cost Overlay" src="https://lh3.googleusercontent.com/YRumgHRkr1t3nY2AhlrRuKxjcS-ZdpijlgFYT2f40g4qMEQQWb5p3sQBHA0tSGdVKIDv0ees2uEhjOgxMUWIi4RXIA=s120" alt="Cursor Usage Cost Overlay" /></a></code>
+<code><a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en"><img height="20" title= "Open in Cursor" src="https://lh3.googleusercontent.com/hclkeIBEVp_l5svDzh4Ixiyt0FtJXPV6fPYW169g3a8sDKhvSdARhCXI5E-32sMwitM6c-sj-kQtlHvbFbynMkJ5tI0=s120" alt="Open in Cursor" /></a></code>
+<code><a href="https://wediscuss.online/"><img height="20" title= "We Discuss-Multi-AI Chat" src="https://p.ipic.vip/vfywx0.png" alt="We Discuss-Multi-AI Chat" /></a></code>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 #### Languages
 
