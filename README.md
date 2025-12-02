@@ -19,9 +19,9 @@ I have a strong interest in programming and I am good at solving real-world prob
 #### Personal products
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><a href="https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en"><img height="20" title= "Cursor Usage Cost Overlay" src="https://lh3.googleusercontent.com/YRumgHRkr1t3nY2AhlrRuKxjcS-ZdpijlgFYT2f40g4qMEQQWb5p3sQBHA0tSGdVKIDv0ees2uEhjOgxMUWIi4RXIA=s120" alt="Cursor Usage Cost Overlay" /></a></code>
-<code><a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en"><img height="20" title= "Open in Cursor" src="https://lh3.googleusercontent.com/hclkeIBEVp_l5svDzh4Ixiyt0FtJXPV6fPYW169g3a8sDKhvSdARhCXI5E-32sMwitM6c-sj-kQtlHvbFbynMkJ5tI0=s120" alt="Open in Cursor" /></a></code>
-<code><a href="https://wediscuss.online/"><img height="20" title= "We Discuss-Multi-AI Chat" src="https://p.ipic.vip/vfywx0.png" alt="We Discuss-Multi-AI Chat" /></a></code>
+<a href="https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en"><img height="20" title= "Cursor Usage Cost Overlay" src="https://lh3.googleusercontent.com/YRumgHRkr1t3nY2AhlrRuKxjcS-ZdpijlgFYT2f40g4qMEQQWb5p3sQBHA0tSGdVKIDv0ees2uEhjOgxMUWIi4RXIA=s120" alt="Cursor Usage Cost Overlay" /></a>
+<a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en"><img height="20" title= "Open in Cursor" src="https://lh3.googleusercontent.com/hclkeIBEVp_l5svDzh4Ixiyt0FtJXPV6fPYW169g3a8sDKhvSdARhCXI5E-32sMwitM6c-sj-kQtlHvbFbynMkJ5tI0=s120" alt="Open in Cursor" /></a>
+<a href="https://wediscuss.online/"><img height="20" title= "We Discuss-Multi-AI Chat" src="https://p.ipic.vip/vfywx0.png" alt="We Discuss-Multi-AI Chat" /></a>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
