@@ -1,8 +1,6 @@
 ### Hi there, I'm [Xiao Haoxing](https://xiaohaoxing.github.io)（肖皓星）. 👋
 
-🌟 Currently I'm **looking for new oppotunities**. If you're interested, please feel free to send me a connect email at [xiaohaoxing@outlook.com](mailto://xiaohaoxing@outlook.com).
-
-I'm now a self-employed full-stack developer. Before that, I worked at [Shanghai Ruoyou Network Technology Co., Ltd.](https://ruguoapp.com/), [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a backend software development engineer. What's more, I used to be a [PhD student](http://bdi.whu.edu.cn/teacherinfo.aspx?id=472) at Wuhan University for one and a half year!
+I am a software engineer at [WallTech Inc.](https://walltechsystem.com/), I'm focusing on productivity area. Before that, I worked at [Shanghai Ruoyou Network Technology Co., Ltd.](https://ruguoapp.com/), [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a backend software development engineer. What's more, I used to be a [PhD student](http://bdi.whu.edu.cn/teacherinfo.aspx?id=472) at Wuhan University for one and a half year!
 
 I have a strong interest in programming and I am good at solving real-world problems from an engineering perspective. I'm making a tool for influencer discovery on the social media and some interesting projects!
 
