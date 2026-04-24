@@ -4,11 +4,6 @@ I am a software engineer at [WallTech Inc.](https://walltechsystem.com/), I'm fo
 
 I have a strong interest in programming and I am good at solving real-world problems from an engineering perspective. I'm making a tool for influencer discovery on the social media and some interesting projects!
 
----
-
-🚀 I'm excited to announce that my new project, EasyKOL, has launched on Product Hunt! It's the fastest way to find and outreach creators. I would love for you to check it out and show your support!
-<a align='right' href="https://www.producthunt.com/products/easykol?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-easykol" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=999909&theme=light&t=1754291701223" alt="EasyKOL - The&#0032;fastest&#0032;way&#0032;to&#0032;find&#0032;and&#0032;outreach&#0032;creators | Product Hunt" style="width: 150px; height: 54px;" width="150" height="54" /></a>
-
 
 #### Personal Products
 <!-- prettier-ignore-start -->
