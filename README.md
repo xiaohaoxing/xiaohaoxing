@@ -1,85 +1,83 @@
-### Hi there, I'm [Xiao Haoxing](https://xiaohaoxing.github.io)（肖皓星）. 👋
+  
+  ## Hi there, I'm Xiao Haoxing (肖皓星) 👋  
+ 
+  AI application engineer at [WallTech Inc.](https://walltechsystem.com/), deep in the cross-border logistics space.  
+  Previously: **ByteDance · Xiaomi · Ruoyou Network** · ex-PhD @ Wuhan University 
+ 
+  --- 
 
-I am a software engineer at [WallTech Inc.](https://walltechsystem.com/), I'm focusing on productivity area. Before that, I worked at [Shanghai Ruoyou Network Technology Co., Ltd.](https://ruguoapp.com/), [Xiaomi](https://www.mi.com/) and [ByteDance](https://www.bytedance.com/en/) as a backend software development engineer. What's more, I used to be a [PhD student](http://bdi.whu.edu.cn/teacherinfo.aspx?id=472) at Wuhan University for one and a half year!
+  ### 🔨 Currently Building 
 
-I have a strong interest in programming and I am good at solving real-world problems from an engineering perspective. I'm making a tool for influencer discovery on the social media and some interesting projects!
+  Productivity tools for developers, powered by AI. 
+  Domain expertise: cross-border logistics & supply chain tech.
+ 
+  --- 
 
+  ### 🚀 Projects  
 
-#### Personal Products
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<a href="https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en"><img height="30" title= "Cursor Usage Cost Overlay" src="https://lh3.googleusercontent.com/YRumgHRkr1t3nY2AhlrRuKxjcS-ZdpijlgFYT2f40g4qMEQQWb5p3sQBHA0tSGdVKIDv0ees2uEhjOgxMUWIi4RXIA=s120" alt="Cursor Usage Cost Overlay" /></a> 
-**Cursor Usage Cost Overlay**: Direct see how much money has been used in cursor. [Chrome Extension](https://chromewebstore.google.com/detail/cursor-usage-cost-overlay/dfegfhdphlomkkabpamiambccnfeknhn?authuser=0&hl=en) | [Code](https://github.com/xiaohaoxing/cursor-value-calculator)
-<br />
+  <table> 
+  <tr>
+  <td align="center">
+ <a href="https://github.com/xiaohaoxing/claude-token-tracker">
+<img height="40" src="https://amazon-github.s3.us-east-2.amazonaws.com/claude-token-tracker-logo.svg" />  
+ </a>  
+ <br/><b>Claude Token Tracker</b><br/>  
+ Track Claude Code token usage with a real-time dashboard.<br/> 
+ <a href="https://github.com/xiaohaoxing/claude-token-tracker">Web App</a>
+  </td>
+  <td align="center">
+ <a href="https://github.com/xiaohaoxing/AgentBoard-Desktop">
+<img height="40" src="https://amazon-github.s3.us-east-2.amazonaws.com/agentboard.svg" />  
+ </a>  
+ <br/><b>Agent Board Desktop</b><br/>
+ Desktop app for <a href="https://agentboard.cc">agentboard.cc</a>.<br/> 
+ <a href="https://github.com/xiaohaoxing/AgentBoard-Desktop">Desktop App</a>
+  </td>
+  <td align="center"> 
+ <a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik">
+<img height="40" src="https://lh3.googleusercontent.com/hclkeIBEVp_l5svDzh4Ixiyt0FtJXPV6fPYW169g3a8sDKhvSdARhCXI5E-32sMwitM6c-sj-kQtlHvbFbynMkJ5tI0=s120" /> 
+ </a>  
+ <br/><b>Open in Cursor</b><br/>  
+ Install VSCode extensions directly in Cursor & AI IDEs.<br/>
+ <a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik">Extension</a> · <a
+  href="https://github.com/xiaohaoxing/open-in-cursor">Code</a> 
+  </tr>
+  </table>
 
-<a href="https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en"><img height="30" title= "Open in Cursor" src="https://lh3.googleusercontent.com/hclkeIBEVp_l5svDzh4Ixiyt0FtJXPV6fPYW169g3a8sDKhvSdARhCXI5E-32sMwitM6c-sj-kQtlHvbFbynMkJ5tI0=s120" alt="Open in Cursor" /></a>
-**Open in Cursor**: Direct install VSCode Extensions for cursor and other AI IDEs. [Chrome Extension](https://chromewebstore.google.com/detail/open-in-cursor/odkojkmpgcmpccileecgpamchicmmpik?authuser=0&hl=en) | [Code](https://github.com/xiaohaoxing/open-in-cursor)
+  ---
+  
+  ### 🧰 Tech Stack
+ 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+ 
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)  
+  ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+ 
+  ---  
+ 
+  ### 📊 GitHub Stats 
 
-<a href="https://wediscuss.online/"><img height="30" title= "We Discuss-Multi-AI Chat" src="https://p.ipic.vip/vfywx0.png" alt="We Discuss-Multi-AI Chat" /></a>
-**We Discuss**: Have you ever chat with AIs in a group? [Web Application](https://wediscuss.online/)
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-#### Languages
-
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=xiaohaoxing&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&count_private=true"/>
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
-
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="20" title="java" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/java/java.png" alt="java" /></code>
-<code><img height="20" title="go" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/go/go.png" alt="go" /></code>
-<code><img height="20" title="python" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/python/python.png" alt="python" /></code>
-<code><img height="20" title="javascript" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" title="typescript" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/typescript/typescript.png" alt="typescript" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- languages:end -->
-
-#### Frameworks and Tools
-
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<code><img height="20" title="nodejs" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" title="fastify" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/fastify/fastify.png" alt="fastify" /></code>
-<code><img height="20" title="spring" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" alt="spring" /></code>
-<code><img height="20" title="spring-boot" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring-boot/spring-boot.png" alt="spring-boot" /></code>
-<code><a href="undefined"><img height="20" title= "Spark" src="https://simpleicons.org/icons/apachespark.svg" alt="Spark" /></a></code>
-<code><img height="20" title="vue" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/vue/vue.png" alt="vue" /></code>
-<code><img height="20" title="react" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/react/react.png" alt="react" /></code>
-<code><img height="20" title="git" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/git/git.png" alt="git" /></code>
-<code><img height="20" title="visual-studio-code" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
-<code><img height="20" title="macos" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/macos/macos.png" alt="macos" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- tools:end -->
-
-#### Work&Education Experience
-
-<!-- experience:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><a href="https://www.mi.com/en"><img height="20" title= "XiaoMi" src="https://cdn.cnbj1.fds.api.mi-img.com/info-app-webfile/%20hr-official-website-web/pc-nav/logo.svg" alt="XiaoMi" /></a></code>
-<code><a href="https://www.bytedance.com/en/"><img height="20" title= "ByteDance" src="https://simpleicons.org/icons/bytedance.svg" alt="ByteDance" /></a></code>
-<code><a href="https://en.whu.edu.cn/"><img height="20" title= "Wuhan University" src="https://www.whu.edu.cn/__local/5/2F/C2/57EDDD9FB0DF712F3AB627163C2_1EF15655_13FCA.png" alt="Wuhan University" /></a></code>
-<code><a href="https://ruguoapp.com/"><img height="20" title= "If Tech" src="https://avatars.githubusercontent.com/u/13011263?s=200&v=4" alt="Ruguo Company" /></a></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- experience:end -->
-
----
-
-You can find how to contact me in the sidebar. You can follow me to find something more interesting.
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaohaoxing&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&count_private=true"/>
+ 
+  ---
+ 
+  ### 🏢 Experience  
+ 
+  | Company | Role |
+  |---|---|  
+  | [WallTech](https://walltechsystem.com/) | Software Engineer — Cross-border Logistics |
+  | [Ruoyou Network](https://ruguoapp.com/) | Backend Engineer |  
+  | [Xiaomi](https://www.mi.com/en) | Backend Engineer |  
+  | [ByteDance](https://www.bytedance.com/en/) | Backend Engineer |
+  | [Wuhan University](https://en.whu.edu.cn/) | ex-PhD, Big Data Institute |  
+ 
+  ---  
+ 
+  Find me in the sidebar · Follow for more projects
