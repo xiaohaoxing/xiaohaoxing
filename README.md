@@ -27,7 +27,7 @@
   </td>
   <td align="center">
  <a href="https://github.com/xiaohaoxing/AgentBoard-Desktop">
-<img height="40" src="https://raw.githubusercontent.com/xiaohaoxing/xiaohaoxing/main/assets/agentboard.svg" />  
+<img height="40" src="https://cdn.jsdelivr.net/gh/xiaohaoxing/xiaohaoxing@main/assets/agentboard.svg" />  
  </a>  
  <br/><b>Agent Board Desktop</b><br/>
  Desktop app for <a href="https://agentboard.cc">agentboard.cc</a>.<br/> 
